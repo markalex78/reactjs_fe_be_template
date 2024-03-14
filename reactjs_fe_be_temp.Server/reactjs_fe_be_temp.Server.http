@@ -1,0 +1,6 @@
+@reactjs_fe_be_temp.Server_HostAddress = http://localhost:5298
+
+GET {{reactjs_fe_be_temp.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
